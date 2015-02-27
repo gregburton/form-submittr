@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+
+body {
+	font-family: "Indie Flower";
+}
+.header {
+	margin: 0 auto 50px auto;
+	height: 125px;
+	color: #cf5300;
+	background-color: #413f3e;
+	text-align: center;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	font-weight: 700;
+	font-size: 65px;
+}
+
+.user-title {
+	font-weight: 700;
+	margin: 100px auto 0 auto;
+}
