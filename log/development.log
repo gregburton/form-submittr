@@ -2779,3 +2779,136 @@ Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 a
 
 
 Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 00:01:51 -0500
+
+
+Started GET "/" for ::1 at 2015-02-27 00:17:56 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 451ms (Views: 348.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/users-0f7bb3922263240c07986c537c4a6522.css?body=1" for ::1 at 2015-02-27 00:17:58 -0500
+
+
+Started GET "/assets/application-25596153f6fa999ce1b0ca07228ae126.css?body=1" for ::1 at 2015-02-27 00:17:58 -0500
+
+
+Started GET "/assets/forms-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 00:17:58 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 00:17:58 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 00:17:58 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 00:17:59 -0500
+
+
+Started GET "/assets/forms-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 00:17:59 -0500
+
+
+Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 00:17:59 -0500
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 00:17:59 -0500
+
+
+Started GET "/" for ::1 at 2015-02-27 00:18:38 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 193ms (Views: 191.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/forms-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 00:18:39 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 00:18:39 -0500
+
+
+Started GET "/assets/users-0f7bb3922263240c07986c537c4a6522.css?body=1" for ::1 at 2015-02-27 00:18:39 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 00:18:39 -0500
+
+
+Started GET "/assets/application-25596153f6fa999ce1b0ca07228ae126.css?body=1" for ::1 at 2015-02-27 00:18:39 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 00:18:39 -0500
+
+
+Started GET "/assets/forms-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 00:18:39 -0500
+
+
+Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 00:18:39 -0500
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 00:18:39 -0500
+
+
+Started GET "/" for ::1 at 2015-02-27 00:19:06 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 122ms (Views: 121.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/forms-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 00:19:06 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 00:19:06 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 00:19:06 -0500
+
+
+Started GET "/assets/application-25596153f6fa999ce1b0ca07228ae126.css?body=1" for ::1 at 2015-02-27 00:19:06 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 00:19:06 -0500
+
+
+Started GET "/assets/users-0f7bb3922263240c07986c537c4a6522.css?body=1" for ::1 at 2015-02-27 00:19:06 -0500
+
+
+Started GET "/assets/forms-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 00:19:06 -0500
+
+
+Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 00:19:06 -0500
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 00:19:06 -0500
+
+
+Started GET "/" for ::1 at 2015-02-27 00:19:16 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 237ms (Views: 235.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/forms-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 00:19:17 -0500
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 00:19:17 -0500
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 00:19:17 -0500
+
+
+Started GET "/assets/users-07b6624d52b9c6a8b403f855a1b79184.css?body=1" for ::1 at 2015-02-27 00:19:17 -0500
+
+
+Started GET "/assets/application-5a2f50a5f1e741e5e17036803c593380.css?body=1" for ::1 at 2015-02-27 00:19:17 -0500
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 00:19:17 -0500
+
+
+Started GET "/assets/forms-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 00:19:17 -0500
+
+
+Started GET "/assets/users-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 00:19:17 -0500
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 00:19:17 -0500
