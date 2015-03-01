@@ -1,5 +1,7 @@
 == Form Submittr
 
+For when you just want to submit all the forms.
+
 This web app will ultimately be used to submitt reports via form to an administrators group who can then view, manipulate, and do exports of the received data.
 
 
