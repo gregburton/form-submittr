@@ -9,6 +9,4 @@ This web app will ultimately be used to submitt reports via form to an administr
 
 * Rails 4.2
 
-* Will probably use PostgreSQL; TBD
-
-* more fun bullet points coming soon
+* PostgreSQL
