@@ -1,10 +1,20 @@
-== Form Submittr
+== (Orphaned Project) Form Submittr
 
-For when you just want to submit all the forms.
+Submittr has been supplanted by an internal form submission app that is not available on GitHub.
+Submittr is left here for posterity and because deleting it would pulverize my daily commit streak.
+
+Submittr, we hardly knew ye. R.I.P.
+
+***
+
+Original description:
+
+Form Submittr: For when you just want to submit all the forms.
 
 This web app will ultimately be used to submitt reports via form to an administrators group who can then view, manipulate, and do exports of the received data.
 
 
+Built with:
 * Ruby 1.9.3 (only the latest and greatest will do)
 
 * Rails 4.2
