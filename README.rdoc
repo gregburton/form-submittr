@@ -1,9 +1,9 @@
 == (Orphaned Project) Form Submittr
 
-Submittr has been supplanted by an internal form submission app that is not available on GitHub.
-Submittr is left here for posterity and because deleting it would pulverize my daily commit streak.
+Form Submittr has been supplanted by an internal form submission app that is not available on GitHub.
+It is left here for posterity and because deleting it would pulverize my daily commit streak.
 
-Submittr, we hardly knew ye. R.I.P.
+Form Submittr, we hardly knew ye. R.I.P.
 
 ***
 
